@@ -1,6 +1,6 @@
 <div class="records index">
 <?php echo $this->element('records'); ?>
-<?php echo $this->Element('scaffolds/index', array('data' => $records)); ?> 
+<?php echo $this->Element('scaffolds/index', array('data' => $records, 'actions' => false)); ?> 
 </div>
 
 <?php
