@@ -36,13 +36,13 @@ For more information about our Professional Zuha Services please visit the [Zuha
 
 Copyright 2009-2012, [RazorIT LLC](http://razorit.com)
 
-Licensed under [The MIT License](http://www.opensource.org/licenses/mit-license.php)<br/>
+Licensed under [The MIT License](http://www.opensource.org/licenses/mit-license.php)
 Redistributions of files must retain the above copyright notice.
 
 ## Copyright ###
 
-Copyright 2009-2012<br/>
-[RazoIT LLC](http://razorit.com)<br/>
-8417 Oswego Rd. #121<br/>
-Baldwinsville, NY 13027<br/>
-http://razorit.com<br/>
+Copyright 2009-2012
+[RazoIT LLC](http://razorit.com)
+8417 Oswego Rd. #121
+Baldwinsville, NY 13027
+http://razorit.com
