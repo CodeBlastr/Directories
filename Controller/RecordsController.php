@@ -71,7 +71,6 @@ class RecordsController extends RecordsAppController {
 
 			$this->Record->recursive = 0;
 			$this->paginate['conditions'] = $conditions ;
-			$this->paginate['limit'] = 10 ;
 			$records = $this->paginate();			
 		}
 		
